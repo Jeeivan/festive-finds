@@ -1,0 +1,26 @@
+{
+    "activities": [
+      {
+        "name": "Winter Wonderland",
+        "location": "Hyde Park",
+        "description": "Find all sorts of magical Christmas activities in one place.",
+        "dates": "Nov 23-Jan 1",
+        "img": "https://blogsmedia.lse.ac.uk/blogs.dir/43/files/2021/11/WW-3.png"
+    },
+    {
+        "name": "Hogwarts in the Snow",
+        "location": "Hertfordshire",
+        "description": "Step onto authentic sets, discover the magic behind spellbinding special effects and explore the behind-the-scenes secrets of the Harry Potter film series. Discover the iconic Hogwarts Great Hall and explore the Forbidden Forest, all before boarding the original Hogwarts Express at Platform 9 ¾ and wandering down Diagon Alley.",
+        "dates": "11th November 2023 – 14th January 2024",
+        "img": "https://cdn.londonandpartners.com/asset/hogwarts-in-the-snow-at-warner-bros-studio-tour-london-the-making-of-harry-potter_hogwarts-in-the-snow-image-courtesy-of-warner-bros-studio-tour-london-the-making-of-harry-potter_1ad6946d0d4d45e226c774b8e4c95e96.jpg"
+    },
+    {
+        "name": "Hampton Court Palace Ice Rink",
+        "location": "Surrey",
+        "description": "Enjoy magnificent background views of Henry VIII's residence.",
+        "dates": "7th November 2023 to 7th January 2024",
+        "img": "https://s3-eu-west-1.amazonaws.com/onin.london/assets/SKATE-AID.jpg"
+      }
+    ]
+  }
+  

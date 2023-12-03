@@ -1,0 +1,40 @@
+{
+    "sightseeingPlaces": [
+      {
+        "name": "Christmas at Kew",
+        "location": "Royal Botanical Gardens",
+        "nearestStation": "Kew Gardens Station",
+        "img": "https://media.timeout.com/images/105725761/750/422/image.jpg",
+        "dates": "Until Jan 7 2023"
+      },
+      {
+        "name": "Regent Street Christmas Lights",
+        "location": "Regent Street",
+        "nearestStation": "Oxford Circus Station",
+        "img": "https://www.regentstreetonline.com/media/iltemeja/the-spirit-of-christmas-by-regent-street.jpg",
+        "dates": "Early Jan 2024"
+      },
+      {
+        "name": "Oxford Street Christmas Lights",
+        "location": "Oxford Street",
+        "nearestStation": "Oxford Circus Station",
+        "img": "https://media.timeout.com/images/106052399/image.jpg",
+        "dates": "Early Jan 2024"
+      },
+      {
+        "name": "Trafalgar Square Christmas Tree",
+        "location": "Trafalgar Square",
+        "nearestStation": "Charing Cross Station",
+        "img": "https://ichef.bbci.co.uk/news/976/cpsprodpb/D31C/production/_128044045_xmastrafalgargetty.jpg",
+        "dates": "Early Jan 2024"
+      },
+      {
+        "name": "Mistletoe Chandeliers at Covent Garden",
+        "location": "Covent Garden",
+        "nearestStation": "Covent Garden Station",
+        "img": "https://www.blackout.co.uk/wp-content/uploads/2019/10/Covent-Garden-1-of-1-2.jpg",
+        "dates": "Early Jan 2024"
+      }
+    ]
+  }
+  

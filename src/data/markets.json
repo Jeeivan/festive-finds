@@ -1,0 +1,47 @@
+{
+    "markets": [
+      {
+        "name": "Southbank Centre Winter Market",
+        "location": "South Bank's riverside",
+        "dates": "2 Nov-26 Dec",
+        "img": "https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2020/11/22050414/Southbank-Centre-Christmas-Market3.jpg"
+      },
+      {
+        "name": "Covent Garden Christmas markets",
+        "location": "Covent Garden",
+        "dates": "From 7 Nov",
+        "img": "https://www.coventgarden.london/media/qbhhmj1x/covent-garden-christmas-2020-15.jpg?anchor=center&mode=crop&width=800&height=450&rnd=132792047666600000"
+      },
+      {
+        "name": "Leicester Square Christmas market",
+        "location": "Leicester Square",
+        "dates": "8 Nov-7 Jan",
+        "img": "https://media.timeout.com/images/103646692/image.jpg"
+      },
+      {
+        "name": "Trafalgar Square Christmas market",
+        "location": "Trafalgar Square",
+        "dates": "10 Nov-2 Jan",
+        "img": "https://www.underbelly.co.uk/wp-content/uploads/2021/01/@pasco.photography_2mb-10-scaled.jpg"
+      },
+      {
+        "name": "Spitalfields Christmas markets",
+        "location": "Spitalfields",
+        "dates": "15 Nov-24 Dec",
+        "img": "https://absolutelymagazines.com/wp-content/uploads/2023/09/hero-14-1-jpg.webp"
+      },
+      {
+        "name": "Kingston Christmas Market",
+        "location": "Kingston upon Thames",
+        "dates": "16 Nov-31 Dec",
+        "img": "https://www.kingstonchristmasmarket.co.uk/wp-content/uploads/2020/09/kingston-christmas-market-aerial.jpg"
+      },
+      {
+        "name": "Borough Market at Christmas",
+        "location": "Borough Market",
+        "dates": "28 Nov-9 Jan",
+        "img": "https://anywhereweroam.com/wp-content/uploads/2022/11/borough-market-christmas-1.jpg"
+      }
+    ]
+  }
+  
