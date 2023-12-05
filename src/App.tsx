@@ -6,6 +6,7 @@ import Markets from './pages/Markets';
 import FestiveFoods from './pages/FestiveFoods';
 import SightSeeing from './pages/SightSeeing';
 import Activities from './pages/Activities';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
             <Route path='/Sightseeing' element={<SightSeeing/>} />
             <Route path='/Activities' element={<Activities/>} />
             </Routes>
+            <Footer />
     </main>
   );
 }
