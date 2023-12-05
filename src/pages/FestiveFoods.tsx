@@ -1,19 +1,20 @@
-import foodsData from '../data/food.json'
-import '../css/FestiveFoods.css'
+import foodsData from '../data/food.json';
+import '../css/FestiveFoods.css';
 
 export default function FestiveFoods() {
   return (
-    <div>
-      <h2>Festive Foods</h2>
-      {foodsData.food.map((food, index) => (
-        <div key={index}>
-          <h2>{food.name}</h2>
-          <p>Location- {food.location}</p>
-          <p>Description- {food.description}</p>
-          <img src={food.image} alt="" />
-          <hr />
-        </div>
-      ))}
+    <div className="festive-foods-container">
+      <h2 className="festive-foods-title">Festive Foods</h2>
+      <div className="foods-list">
+        {foodsData.food.map((food, index) => (
+          <div key={index} className="food-item">
+            <h3 className="food-name">{food.name}</h3>
+            <p className="food-location">Location: {food.location}</p>
+            <p className="food-description">Description: {food.description}</p>
+            <img src={food.image} alt={food.name} className="food-image" />
+          </div>
+        ))}
+      </div>
     </div>
-  )
+  );
 }

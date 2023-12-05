@@ -17,7 +17,7 @@ p {
 
 .image-container {
     flex: 0 0 calc(50% - 10px); 
-    margin: -20px;
+    margin: 5px;
     box-sizing: border-box;
 }
 
@@ -26,7 +26,6 @@ p {
     height: 200px;
     object-fit: cover;
     transition: transform 0.2s;
-    margin-bottom: 50px;
 }
 
 .image-container img:hover {

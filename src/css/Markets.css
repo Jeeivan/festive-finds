@@ -1,3 +1,49 @@
-img {
-    max-width: 500px;
-}
+/* Markets.css */
+.markets-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .markets-title {
+    color: #d9534f; 
+  }
+  
+  .markets-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .market-item {
+    width: 300px; 
+    margin: 15px;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    transition: transform 0.2s;
+  }
+  
+  .market-item:hover {
+    transform: scale(1.05);
+  }
+  
+  .market-name {
+    color: #333;
+    font-size: 1.5em;
+  }
+  
+  .market-location,
+  .market-dates {
+    color: #777;
+  }
+  
+  .market-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover; 
+    border-radius: 8px;
+  }
+  
+
+  

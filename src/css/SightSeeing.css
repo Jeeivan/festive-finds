@@ -1,21 +1,21 @@
-/* Activities.css */
-.activities-container {
+/* SightSeeing.css */
+.sightseeing-container {
     text-align: center;
     padding: 20px;
   }
   
-  .activities-title {
+  .sightseeing-title {
     color: #d9534f;
   }
   
-  .activities-list {
+  .sights-list {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
   }
   
-  .activity-item {
-    width: 300px;
+  .sight-item {
+    width: 300px; 
     margin: 15px;
     padding: 10px;
     background-color: #fff;
@@ -24,26 +24,27 @@
     transition: transform 0.2s;
   }
   
-  .activity-item:hover {
+  .sight-item:hover {
     transform: scale(1.05);
   }
   
-  .activity-name {
+  .sight-name {
     color: #333;
     font-size: 1.5em;
   }
   
-  .activity-location,
-  .activity-description,
-  .activity-dates {
+  .sight-location,
+  .sight-station,
+  .sight-dates {
     color: #777;
   }
   
-  .activity-image {
+  .sight-image {
     width: 100%;
     height: 200px;
     object-fit: cover; 
     border-radius: 8px;
   }
   
+
   
