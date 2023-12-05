@@ -23,6 +23,10 @@
     border-radius: 8px;
     transition: transform 0.2s;
   }
+
+  .market-item h3 {
+    color: #d9534f; 
+  }
   
   .market-item:hover {
     transform: scale(1.05);

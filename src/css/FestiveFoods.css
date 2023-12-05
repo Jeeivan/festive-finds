@@ -24,6 +24,10 @@
     border-radius: 8px;
     transition: transform 0.2s;
   }
+
+  .food-item h3 {
+    color: #d9534f; 
+  }
   
   .food-item:hover {
     transform: scale(1.05);

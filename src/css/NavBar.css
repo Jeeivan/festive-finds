@@ -1,11 +1,12 @@
-/* Navbar.css */
+/* NavBar.css */
 
 .navbar-container {
-    background-color: red; 
+    background-color: #d9534f; 
     padding: 15px;
     display: flex;
     flex-direction: row; 
     justify-content: center; 
+    align-items: center; 
 }
 
 .navbar-link {
@@ -20,6 +21,16 @@
     color: green;
 }
 
+.countdown-container {
+    margin-left: 50px;
+}
+
+.countdown-container p {
+    font-size: 30px;
+    font-weight: bold;
+    color: green;
+}
+
 @media (max-width: 768px) {
     .navbar-container {
         flex-direction: column; 
@@ -30,5 +41,10 @@
     .navbar-link {
         font-size: 18px; 
         margin: 10px 0;
+    }
+
+    .countdown-container {
+        margin-left: 0; /* Reset the margin for smaller screens */
+        margin-top: 10px;
     }
 }
