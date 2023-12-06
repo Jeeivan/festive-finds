@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/festive-finds/static/css/main.1ed0a550.css",
-    "main.js": "/festive-finds/static/js/main.4427ed5a.js",
+    "main.css": "/festive-finds/static/css/main.6741e812.css",
+    "main.js": "/festive-finds/static/js/main.17ef4d66.js",
     "index.html": "/festive-finds/index.html",
-    "main.1ed0a550.css.map": "/festive-finds/static/css/main.1ed0a550.css.map",
-    "main.4427ed5a.js.map": "/festive-finds/static/js/main.4427ed5a.js.map"
+    "main.6741e812.css.map": "/festive-finds/static/css/main.6741e812.css.map",
+    "main.17ef4d66.js.map": "/festive-finds/static/js/main.17ef4d66.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ed0a550.css",
-    "static/js/main.4427ed5a.js"
+    "static/css/main.6741e812.css",
+    "static/js/main.17ef4d66.js"
   ]
 }
