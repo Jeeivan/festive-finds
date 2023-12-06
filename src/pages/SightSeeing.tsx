@@ -1,5 +1,6 @@
 import sightSeeingData from '../data/sightseeing.json';
 import '../css/SightSeeing.css';
+import { Link } from 'react-router-dom';
 
 export default function SightSeeing() {
   return (
@@ -7,13 +8,12 @@ export default function SightSeeing() {
       <h2 className="sightseeing-title">Christmas Sightseeing</h2>
       <div className="sights-list">
         {sightSeeingData.sightseeingPlaces.map((sights, index) => (
+          <Link to={`/sightdetailpage/${sights.name}`}>
           <div key={index} className="sight-item">
             <h3 className="sight-name">{sights.name}</h3>
-            <p className="sight-location">Location: {sights.location}</p>
-            <p className="sight-station">Nearest Station: {sights.nearestStation}</p>
-            <p className="sight-dates">Open Until: {sights.dates}</p>
             <img src={sights.img} alt={sights.name} className="sight-image" />
           </div>
+          </Link>
         ))}
       </div>
     </div>

@@ -1,0 +1,24 @@
+.page-container {
+    margin: 20px;
+    margin-bottom: 50px;
+  }
+  
+  /* Styles for headers */
+ .page-container h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  /* Styles for location, description, and dates */
+ .page-container p {
+    font-size: 24px;
+    margin-bottom: 8px;
+  }
+  
+  /* Styles for images */
+ .page-container img {
+    max-width: 100%;
+    height: 400px;
+    margin-top: 10px;
+  }
+  

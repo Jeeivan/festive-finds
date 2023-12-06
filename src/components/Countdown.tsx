@@ -8,7 +8,7 @@ export default function Countdown() {
       const currentDate: Date = new Date();
       const differenceInTime: number = christmasDate.getTime() - currentDate.getTime();
       const daysLeft: number = Math.floor(differenceInTime / (1000 * 3600 * 24));
-      return daysLeft >= 0 ? daysLeft : 0;
+      return daysLeft >= 0 ? daysLeft : 0; // Avoids displaying a negative number
     }
   
     useEffect(() => {

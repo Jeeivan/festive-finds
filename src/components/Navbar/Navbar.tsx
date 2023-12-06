@@ -5,7 +5,7 @@ import Countdown from '../Countdown';
 export default function NavBar() {
   return (
     <div className="navbar-container">
-      <Link to="/" className="navbar-link">
+      <Link to="/festive-finds" className="navbar-link">
         Home
       </Link>
       <Link to="/Festivefoods" className="navbar-link">
