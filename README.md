@@ -1,4 +1,4 @@
-# SEI Unit 1 Project ReadMe
+# London Festive Finds
 ![Project Screenshot](example.png)
 
 ## Project Description
