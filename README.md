@@ -31,20 +31,11 @@ TypeScript, React, HTML, CSS
 **Database**
 
 Data Storage: Hardcoded Json Object
-**Categories:**
-Markets
-Activities
-Festive Food Spots
-Sightseeing Places
+**Categories**
+Markets, Activities, Festive Food Spots, Sightseeing Places
 
-**Fields for Each Category:**
-Name
-Location
-What there is to do (for Activities)
-Popular food (for Festive Food Spots)
-Info about the place (for Sightseeing Places)
-Image
-Dates
+**Fields for Each Category**
+Name, Location, What there is to do (for Activities), Popular food (for Festive Food Spots), Info about the place (for Sightseeing Places), Image, Dates
 
 **Website Structure**
 
@@ -55,7 +46,6 @@ Navigation Bar
 Elements:
 Links to main pages
 Christmas Countdown
-
 
 **Activities Page**
 Features:
@@ -77,14 +67,12 @@ Features:
 Map displaying market locations using data
 Individual pages for each market place
 
-
 **Individual Page Structure**
 Elements:
 Name
 Location
 Image
 Dates (if applicable)
-
 
 ## Build Process
 
