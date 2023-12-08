@@ -31,10 +31,12 @@ TypeScript, React, HTML, CSS
 **Database**
 
 Data Storage: Hardcoded Json Object
+
 **Categories**
 Markets, Activities, Festive Food Spots, Sightseeing Places
 
 **Fields for Each Category**
+
 Name, Location, What there is to do (for Activities), Popular food (for Festive Food Spots), Info about the place (for Sightseeing Places), Image, Dates
 
 **Website Structure**
