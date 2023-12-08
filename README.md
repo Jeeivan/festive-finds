@@ -40,6 +40,7 @@ Name, Location, What there is to do (for Activities), Popular food (for Festive 
 **Website Structure**
 
 **Home Page**
+
 Features:
 
 Big picture cards for each main page
@@ -53,6 +54,7 @@ Links to main pages
 Christmas Countdown
 
 **Activities Page**
+
 Features:
 
 Map displaying activity locations using data
@@ -60,6 +62,7 @@ Map displaying activity locations using data
 Individual pages for each activity
 
 **Festive Food Page**
+
 Features:
 
 Map displaying food spot locations using data
@@ -67,6 +70,7 @@ Map displaying food spot locations using data
 Individual pages for each festive food spot
 
 **Sightseeing Places Page**
+
 Features:
 
 Map displaying sightseeing locations using data
@@ -74,6 +78,7 @@ Map displaying sightseeing locations using data
 Individual pages for each sightseeing place
 
 **Markets Page**
+
 Features:
 
 Map displaying market locations using data
@@ -81,6 +86,7 @@ Map displaying market locations using data
 Individual pages for each market place
 
 **Individual Page Structure**
+
 Elements:
 
 Name
